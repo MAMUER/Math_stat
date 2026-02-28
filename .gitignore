@@ -1,2 +1,5 @@
 *.pdf
 *.pptx
+
+*.csv
+customer_data_with_churn.csv
